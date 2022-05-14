@@ -1,4 +1,4 @@
-package com.assessment.soonet
+package com.assessment.soonet.ui
 
 import android.os.Bundle
 import android.view.View
@@ -6,6 +6,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.findNavController
 import androidx.navigation.ui.setupWithNavController
+import com.assessment.soonet.R
 import com.assessment.soonet.databinding.ActivityMainBinding
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import com.google.firebase.auth.FirebaseAuth
