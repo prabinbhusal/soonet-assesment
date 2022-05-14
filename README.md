@@ -1,7 +1,7 @@
 # soonet-assesment
 
 
-Android Kotlin App to fetch photos from REST API following latest best practices.
+Android Kotlin App to fetch photos from REST API following some best practices.
 
 Tools & Architecture used:
 
