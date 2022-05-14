@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127844237895",
+    "project_id": "soonet-assessment",
+    "storage_bucket": "soonet-assessment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127844237895:android:cf27e6f169d0e10f5ea762",
+        "android_client_info": {
+          "package_name": "com.assessment.soonet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127844237895-frbj6o48rllpbvr2rusnpm919asgarpi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoLF-GTrMTsZAo35Ns6jiXgzQZO_1pzkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127844237895-frbj6o48rllpbvr2rusnpm919asgarpi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
